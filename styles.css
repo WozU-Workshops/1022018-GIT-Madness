@@ -1,0 +1,9 @@
+#posters {
+  width: 855px;
+  margin: 0 auto;
+}
+
+#posters img {
+  width: 200px;
+  margin: 5px;
+}
